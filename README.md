@@ -1,7 +1,7 @@
 # CreditWise Loan System
 
 ## Project Overview
-CreditWise Loan System is a machine learning project that predicts whether a loan application is likely to be approved based on applicant details.
+CreditWise Loan System is a Machine Learning project that predicts whether a loan application is likely to be approved based on applicant information. The project includes data preprocessing, model training, evaluation, and prediction.
 
 ## Technologies Used
 - Python
@@ -12,8 +12,13 @@ CreditWise Loan System is a machine learning project that predicts whether a loa
 
 ## Features
 - Data preprocessing
+- Feature engineering
 - Loan approval prediction
 - Model training and evaluation
+- Prediction using applicant details
 
 ## Project Structure
-- Credit_wise_min_proj - Copy.ipynb : Main notebook containing the implementation
+CreditWise_Loan_System.ipynb – Main notebook containing data preprocessing, model training, evaluation, and prediction.
+
+## Author
+**Bhavani MN Houdhkhane**
